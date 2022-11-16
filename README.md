@@ -1,2 +1,2 @@
 # Two-Dice-game-project-
-A programming dice based game creating two different die: player and computer. 
+A programming dice based game creating low and high die values with two different die: the player and the computer. 
